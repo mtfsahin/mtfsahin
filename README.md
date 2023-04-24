@@ -5,6 +5,32 @@
 As a freelance software developer with over a year of experience, I have worked with various technologies such as ***React js,React Native , Python, JavaScript, Laravel 8, Rest-API (PHP),GraphQL and 3D modeling in Blender***. Recently, I have been focusing on Java and Vue Js technologies. I have also gained experience in Python using iGraph and text processing for my graduation project. My passion lies in research, education, and training.As a freelance software developer with over a year of experience, I have worked with various technologies such as React Native,React js, Python, JavaScript, Laravel 8, Rest-API (PHP),GraphQL and 3D modeling in Blender. Recently, I have been focusing on Java and Vue Js technologies. I have also gained experience in Python using iGraph and text processing for my graduation project. My passion lies in research, education, and training.
 </p>
 
+<h2 align="center">Some Projects review links(Click to Review)</h2>
+Griyaka Job Search(Android & Ios Mobile App with React Native) : 
+  <a href="https://apps.apple.com/vn/app/griyaka/id1629360190" target="_blank" rel="noreferrer">
+  Click to review
+  </a><br/>
+  Şahane Kitap (Iyzico & E-arsiv entegrasyon - PHP, Laravel) :
+  <a href="https://sahanekitap.com/" target="_blank" rel="noreferrer">
+  Click to review
+  </a><br/>
+  Weather App (FMSS Practicum - Next Js) :
+  <a href="https://weather-app-mtfsahin.vercel.app/" target="_blank" rel="noreferrer">
+  Click to review
+  </a><br/>
+   Book Search App (FMSS Practicum - React Js) :
+  <a href="https://fmss-book-app.vercel.app/" target="_blank" rel="noreferrer">
+  Click to review
+  </a><br/>
+   Retro Todo App (FMSS Practicum  - Next Js) :
+  <a href="https://fmss-todo-app.vercel.app/" target="_blank" rel="noreferrer">
+  Click to review
+  </a><br/>
+  Text Proccesing with kmin (Python) :
+  <a href="https://github.com/mtfsahin/Text-Proccessing-with-kmin" target="_blank" rel="noreferrer">
+  Click to review
+  </a><br/>
+
 <p align="center">
 <h2 align="left">Programming Languages</h2>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -68,32 +94,6 @@ As a freelance software developer with over a year of experience, I have worked 
   </a>
 </p>
 
-
-<h2 align="center">Some Projects review links(Click to Review)</h2>
-Griyaka Job Search(Android & Ios Mobile App with React Native) : 
-  <a href="https://apps.apple.com/vn/app/griyaka/id1629360190" target="_blank" rel="noreferrer">
-  Click to review
-  </a><br/>
-  Şahane Kitap (Iyzico & E-arsiv entegrasyon - PHP, Laravel) :
-  <a href="https://sahanekitap.com/" target="_blank" rel="noreferrer">
-  Click to review
-  </a><br/>
-  Weather App (FMSS Practicum - Next Js) :
-  <a href="https://weather-app-mtfsahin.vercel.app/" target="_blank" rel="noreferrer">
-  Click to review
-  </a><br/>
-   Book Search App (FMSS Practicum - React Js) :
-  <a href="https://fmss-book-app.vercel.app/" target="_blank" rel="noreferrer">
-  Click to review
-  </a><br/>
-   Retro Todo App (FMSS Practicum  - Next Js) :
-  <a href="https://fmss-todo-app.vercel.app/" target="_blank" rel="noreferrer">
-  Click to review
-  </a><br/>
-  Text Proccesing with kmin (Python) :
-  <a href="https://github.com/mtfsahin/Text-Proccessing-with-kmin" target="_blank" rel="noreferrer">
-  Click to review
-  </a><br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtfsahin&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtfsahin&theme=blue_green) 
