@@ -74,7 +74,7 @@ Griyaka Job Search(Android & Ios Mobile App with React Native) :
   <a href="https://apps.apple.com/vn/app/griyaka/id1629360190" target="_blank" rel="noreferrer">
   Click to review
   </a><br/>
-  Şahane Kitap (Iyzico & E-arsiv entegrasyon) :
+  Şahane Kitap (Iyzico & E-arsiv entegrasyon - PHP, Laravel) :
   <a href="https://sahanekitap.com/" target="_blank" rel="noreferrer">
   Click to review
   </a><br/>
